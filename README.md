@@ -1,6 +1,6 @@
 # Thuraya GMR-1 Faraday Cage Replay — CONFIRMED WORKING
 
-## A/B Test Results (June 5, 2026)
+## A/B Test Results (June , 2026)
 
 **Bias tee OFF (LNA disabled):**
 ```
